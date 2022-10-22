@@ -1,5 +1,6 @@
 # Hi, I'm Rajshree 👩🏽‍🎓👩🏽‍💻
-<img src="https://user-images.githubusercontent.com/101933712/197324503-7bb6d40a-314c-4d39-b6c1-4f33c5e889d2.png" width="500" height="347" />
+
+<img src="https://user-images.githubusercontent.com/101933712/197348912-d0431488-5dbf-4536-880d-b026711e0dcd.jpg"/>
 
 - 🏫 I am a second-year Bachelor's in computer science technology student and love to solve real-life problems. 
 - ✏️ This passion goes into the field of content writing as well, like correcting grammar:)
